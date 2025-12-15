@@ -1,0 +1,1 @@
+FileTyper is a Linux command-line tool that analyzes a file and displays cryptographic hashes (MD5, SHA-1, SHA-256), fuzzy hashes (SSDEEP, TLSH), raw hex data, file type information, magic details, file extension, and file size. It is designed for quick file inspection and basic malware or forensic analysis. 
