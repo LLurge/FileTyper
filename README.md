@@ -19,8 +19,15 @@ File Type Identifier is a lightweight Linux command-line tool designed for detai
 * **Clean Output:** Provides a structured and readable terminal output for rapid analysis.
 
 ## Requirements
-The script relies on common Linux utilities. Ensure the following are installed on your system:
-
+The script relies on common Linux utilities.
+```bash
+bash
+coreutils (for size, stat)
+file (for file type identification)
+xxd (for hex dump)
+ssdeep (for fuzzy hashing)
+tlsh (for fuzzy hashing)
+```
 ## Setup and Usage
 1.  **Clone this repository:**
     ```bash
