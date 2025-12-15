@@ -50,6 +50,7 @@ To analyze a file named `sample.pdf` located in the current directory:
 
 ```bash
 ./fileType.sh sample.pdf
+```
 
 ## License
 GNU GPL v3 License. See [LICENSE](LICENSE) for more details.
